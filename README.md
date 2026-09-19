@@ -108,9 +108,6 @@ Java
 DSA
  ├── Arrays
  ├── Strings
- ├── Linked List
- ├── Stack & Queue
- ├── Trees
  └── Algorithms
 
 
