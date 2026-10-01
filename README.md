@@ -43,12 +43,6 @@ Currently working on:
 
 Programming
 
-</td>
-<td align="center" width="140">
-
-### 🧠 DSA
-
-Problem Solving
 
 </td>
 <td align="center" width="140">
