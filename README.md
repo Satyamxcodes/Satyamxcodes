@@ -121,7 +121,7 @@ Database
 
 ## 🎯 2026 Goals
 
-* 🚀 Become strong in Java
+* 🚀 Become Strong in Java
 * 🧠 Master DSA fundamentals
 * 🗄️ Improve MySQL skills
 * 📈 Contribute more to GitHub
